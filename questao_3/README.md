@@ -4,7 +4,7 @@ Este repositório contém uma aplicação .NET desenvolvida para Questão 3 do r
 
 ## Requisitos
 
-- [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/7.0)
+- [.NET 7.0](https://dotnet.microsoft.com/download/dotnet/7.0)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) (opcional, mas recomendado para uma melhor experiência de desenvolvimento)
 
 ## Configuração do Ambiente
