@@ -1,0 +1,19 @@
+estados
+----------
+Id (PK)
+Nome_Estado
+UF
+
+clientes
+----------
+Id (PK)
+Razao_Social
+Id_Estado (FK) --> estados.Id
+
+telefones
+----------
+Id (PK)
+Numero
+Tipo_Telefone
+Id_Cliente (FK) --> clientes.Id
+
